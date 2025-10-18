@@ -1,0 +1,4 @@
+
+/* minor overrides */
+.container { max-width: 1100px; }
+.card-hover:hover { transform: translateY(-6px); }
